@@ -1,4 +1,4 @@
-const encontro = new Date("2026-06-13T12:00:00");
+const encontro = new Date("2026-06-22T12:00:00");
 
 function atualizar() {
 
